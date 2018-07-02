@@ -1,4 +1,4 @@
-#stay awake
+>Stay Awake
 
 we're working on it haha but u gotta stay awake man
 
