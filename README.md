@@ -8,7 +8,7 @@
 
 we're working on it haha but u gotta stay awake man
 
-not entirely done but eyah, choose your own adventure except its not an adventure ur just trying to stay awake
+it's funny, i like this game we made. it was fun working on all the HTML + CSS!
 
 ---
 
