@@ -1,4 +1,4 @@
-# Stay Awake
+# Stay Awake -- Adventure Game
 
 "Stay Awake is a game about keeping your character awake by keeping busy. It's a slice of life adventure game where your only real objective is to not fall asleep."
 
